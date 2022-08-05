@@ -1,0 +1,40 @@
+body {
+  background-color: yellow;
+  margin: 0;
+}
+
+.name {
+  display: inline;
+  color: white;
+}
+
+header {
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.portrait {
+  border-width: 6px;
+  border-style: solid;
+  border-color: blue;
+  border-radius: 16px;
+}
+
+nav {
+  background-color: lightgray;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 14px;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 6px;
+}
+
+.filter {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 16px;
+}
